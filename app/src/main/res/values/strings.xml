@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalog &amp; Tv</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv">TV Show</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="tv_name">Tv Name</string>
+    <string name="release">Release</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="first">First On Air</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet</string>
+    <string name="no_string">-</string>
+    <string name="loading">Loading…</string>
+    <string name="thumbnail_image">thumbnail-image</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+</resources>

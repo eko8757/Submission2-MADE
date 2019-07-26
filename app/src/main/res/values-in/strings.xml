@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film &amp; Tv</string>
+
+
+    <string name="movie">Film</string>
+    <string name="tv">Pertunjukan TV</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="tv_name">Tv Name</string>
+
+    <string name="release">Rilis</string>
+    <string name="popularity">Popularitas</string>
+    <string name="vote_average">Rata-rata Pemilih</string>
+
+    <string name="first">Tayang perdana</string>
+    <string name="loading">Memuat…</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet</string>
+    <string name="no_string">-</string>
+    <string name="thumbnail_image">thumbnail-image</string>
+    <string name="change_language_settings">Pengaturan ganti bahasa</string>
+
+</resources>
