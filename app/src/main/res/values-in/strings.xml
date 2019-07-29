@@ -10,7 +10,7 @@
 
     <string name="release">Rilis</string>
     <string name="popularity">Popularitas</string>
-    <string name="vote_average">Rata-rata Pemilih</string>
+    <string name="vote_average">Pemilih</string>
 
     <string name="first">Tayang perdana</string>
     <string name="loading">Memuat…</string>

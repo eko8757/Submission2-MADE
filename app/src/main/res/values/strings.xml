@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movie Catalog &amp; Tv</string>
+    <string name="app_name">Catalogue</string>
 
     <string name="movie">Movie</string>
     <string name="tv">TV Show</string>
@@ -7,7 +7,7 @@
     <string name="tv_name">Tv Name</string>
     <string name="release">Release</string>
     <string name="popularity">Popularity</string>
-    <string name="vote_average">Vote Average</string>
+    <string name="vote_average">Vote</string>
     <string name="first">First On Air</string>
     <string name="dummy_text">Lorem ipsum dolor sit amet</string>
     <string name="no_string">-</string>
